@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Authentication/Authentication.iml" filepath="$PROJECT_DIR$/Authentication/Authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banking/Banking.iml" filepath="$PROJECT_DIR$/Banking/Banking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBase/DataBase.iml" filepath="$PROJECT_DIR$/DataBase/DataBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mailing/Mailing.iml" filepath="$PROJECT_DIR$/Mailing/Mailing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spoter.iml" filepath="$PROJECT_DIR$/Spoter.iml" />
+    </modules>
+  </component>
+</project>
