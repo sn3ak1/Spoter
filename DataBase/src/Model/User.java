@@ -10,6 +10,6 @@ public class User {
     String passwd;
     int age;
     UserHistory userHistory;
-    List<TicketComplain> ticketComplains;
-    List<Payment> payments;
+    List<MessageComplaint> messageComplaints;
+    List<Ticket> tickets;
 }

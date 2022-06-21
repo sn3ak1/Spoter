@@ -18,15 +18,15 @@ public class AccessDatabase {
     void addMovie(Movie movie){}
     void deleteMovie(Movie movie){}
 
-    Payment getPayment(int id){return new Payment();}
-    void updatePayment(Payment payment){}
-    void addAuthor(Payment payment){}
-    void deleteAuthor(Payment payment){}
+    Ticket getTicket(int id){return new Ticket();}
+    void updateTicket(Ticket payment){}
+    void addTicket(Ticket payment){}
+    void deleteTicket(Ticket payment){}
 
-    TicketComplain getTicketComplain(int id){return new TicketComplain();}
-    void updateTicketComplain(TicketComplain ticketComplain){}
-    void addTicketComplain(TicketComplain ticketComplain){}
-    void deleteTicketComplain(TicketComplain ticketComplain){}
+    MessageComplaint getMessageComplaint(int id){return new MessageComplaint();}
+    void updateMessageComplaint(MessageComplaint messageComplain){}
+    void addMessageComplaint(MessageComplaint messagetComplain){}
+    void deleteMessageComplaint(MessageComplaint messageComplain){}
 
     User getUser(int id){return new User();}
     void updateUser(User user){}
