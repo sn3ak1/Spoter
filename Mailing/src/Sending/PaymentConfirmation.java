@@ -1,4 +1,8 @@
 package Sending;
 
-public class PaymentConfirmation extends SendEmail{
+import Model.Ticket;
+import Model.User;
+
+public class PaymentConfirmation {
+    void sentPaymentConfirmationEmail(Ticket ticket, User user){}
 }

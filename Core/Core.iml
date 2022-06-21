@@ -9,5 +9,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DataBase" />
     <orderEntry type="module" module-name="Authentication" />
+    <orderEntry type="module" module-name="Banking" />
+    <orderEntry type="module" module-name="Mailing" />
+
   </component>
 </module>
