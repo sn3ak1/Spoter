@@ -8,4 +8,5 @@ public class CinemaRoom {
     int seats;
     Dictionary<Movie, Date> movies;
     int seatsTaken;
+
 }

@@ -5,4 +5,7 @@ public class Ticket {
     Movie movie;
     int price;
     User user;
+    Seat seat;
+    CinemaRoom cinemaRoom;
+
 }
